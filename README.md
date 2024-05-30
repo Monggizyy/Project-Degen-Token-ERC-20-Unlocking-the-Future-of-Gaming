@@ -1,7 +1,5 @@
 # Project-Degen-Token-ERC-20-Unlocking-the-Future-of-Gaming
 
-# Types-of-Functions-Project-Create-and-Mint-Token
-
 # Smart Contract
 This Assesment code implements ERC20 token functionality with mint, burn, transfer, balanceof, and also the redeem function
 
